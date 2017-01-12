@@ -9,3 +9,14 @@ In the space below, provide some information about a terminal command you've lea
 Note that you can preview this Markdown in Atom to make sure it works correctly. See `complete` branch for an example.
 
 ---
+
+# cd
+
+The `cd` command changes the directory. Here's an example:
+```
+cd Desktop/info201/
+```
+
+Here's some information about the `cd` command:
+- You can change to a directory from where the directly you're currently in
+- You can change to a directory starting from the root
